@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently working on building an iOS app called Quitic that is a simplistic sobriety tracking app with APNs enabled to encourage users to embrace sobriety, badges to cheer them on along the way, and social sharing capability so they can get encouragement from friends and family.
 
 <!--
 **JakenHerman/JakenHerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
