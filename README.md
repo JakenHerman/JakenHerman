@@ -3,7 +3,6 @@
 
 🖊️ I occasionally write blog posts, but they don't normally follow any particular topic. Posts can be found on my website at https://www.jakenherman.com
 
-[![PayPal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/jaken)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/jakenherman.svg?style=social)](https://twitter.com/jakenherman)  
 
 
