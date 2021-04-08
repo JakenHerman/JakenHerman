@@ -46,6 +46,9 @@ No Activity tracked this Week
   <a href="https://bit.ly/thehermans"><img height="20" alt="Youtube" src="https://img.shields.io/badge/The Hermans%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 </p>
 
+<a href="https://stackexchange.com/users/3080636/jaken-herman"><img src="https://stackexchange.com/users/flair/3080636.png" alt="profile for Jaken Herman on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Jaken Herman on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
+
 <!--
 **JakenHerman/JakenHerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
