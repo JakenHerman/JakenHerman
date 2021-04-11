@@ -12,11 +12,11 @@
 ### Code
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 40 mins   ██████████████▒░░░░░░░░░░   57.20 % 
-RMarkdown    2 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.43 % 
-TypeScript   58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Markdown     44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Svelte       27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+JavaScript   6 hrs 40 mins   ████████████▒░░░░░░░░░░░░   49.35 % 
+RMarkdown    2 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+TypeScript   1 hr 56 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Markdown     44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Svelte       27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 ```
 <!--END_SECTION:waka-->
 
