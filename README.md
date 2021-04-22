@@ -12,10 +12,7 @@
 ### Code
 <!--START_SECTION:waka-->
 ```text
-RMarkdown    43 mins         ███████████▓░░░░░░░░░░░░░   46.83 % 
-JavaScript   36 mins         ██████████░░░░░░░░░░░░░░░   39.69 % 
-R            10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
