@@ -39,6 +39,14 @@ RMarkdown    9 mins          ▒░░░░░░░░░░░░░░░░
   <img height="20" alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 </p>
 
+## 📚 Learning
+<p float="left">
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>" />
+</p>
+
 ### 💬 Social
 <p float="left">
   <a href="https://www.twitch.tv/jakenherman"><img height="20" alt="Twitch" src="https://img.shields.io/badge/jakenherman%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
