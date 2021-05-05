@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚾ I'm **Jaken**, a 26 y/o married man born & raised in the outskirts of Houston, Texas. I currently work for the Houston Astros as a front-end developer.
+⚾ I'm **Jaken**, a 26 y/o married man born & raised in the outskirts of Houston, Texas. I currently work for @Othram as a software developer.
 
 🖊️ I occasionally write blog posts, but they don't normally follow any particular topic. Posts can be found on my website at https://www.jakenherman.com
 
