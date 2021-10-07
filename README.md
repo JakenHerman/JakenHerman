@@ -12,11 +12,11 @@ I'm **Jaken**, a 27 y/o married man born & raised in the outskirts of Houston, T
 ### Code
 <!--START_SECTION:waka-->
 ```text
-Python       7 hrs 10 mins   ██████████████░░░░░░░░░░░   56.38 % 
-JSX          2 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-JavaScript   1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-SQL          35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-HTML         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Python       7 hrs 55 mins   ██████████████▒░░░░░░░░░░   56.77 % 
+JSX          2 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Go           56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+SQL          48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+JavaScript   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 ```
 <!--END_SECTION:waka-->
 
