@@ -1,12 +1,5 @@
-### Hi there 👋
 
-I'm **Jaken**, a 27 y/o married man born & raised in the outskirts of Houston, Texas. I currently work for [Othram](https://www.github.com/othram) 🧬 as a software developer.
 
-🖊️ I occasionally write blog posts, but they don't normally follow any particular topic. Posts can be found on my website at https://www.jakenherman.com
-
-📫 How to reach me: jakenherman@icloud.com;
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/jakenherman.svg?style=social)](https://twitter.com/jakenherman)
 ![](https://visitor-badge.glitch.me/badge?page_id=jakenherman.jakenherman)
 
 ### Code
@@ -47,32 +40,3 @@ Bash         32 mins         ▓░░░░░░░░░░░░░░░░
   <img height="20" alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img height="20" alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
-
-### 💬 Social
-<p float="left">
-  <a href="https://www.twitch.tv/jakenherman"><img height="20" alt="Twitch" src="https://img.shields.io/badge/jakenherman%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jakenherman">
-  <img height="20" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-  <a href="https://stackoverflow.com/users/2752265/jaken-herman"><img height="20" alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-  <img height="20" alt="Xbox" src="https://img.shields.io/badge/vzi xii%20-%23107C10.svg?&style=for-the-badge&logo=Xbox&logoColor=white"/>
-  <a href="https://bit.ly/thehermans"><img height="20" alt="Youtube" src="https://img.shields.io/badge/The Hermans%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-</p>
-
-<a href="https://stackexchange.com/users/3080636/jaken-herman"><img src="https://stackexchange.com/users/flair/3080636.png" alt="profile for Jaken Herman on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Jaken Herman on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
-
-
-<!--
-**JakenHerman/JakenHerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
