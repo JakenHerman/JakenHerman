@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Rust         4 hrs 5 mins    ███████▓░░░░░░░░░░░░░░░░░   31.11 %
-Python       3 hrs 20 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.35 %
-TypeScript   1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
-GraphQL      1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-Other        1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+Rust         4 hrs 5 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.23 %
+Python       3 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   20.23 %
+TypeScript   2 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+JavaScript   1 hr 42 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+Other        1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
 ```
 
 <!--END_SECTION:waka-->
