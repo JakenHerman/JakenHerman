@@ -41,3 +41,10 @@ JavaScript   31 mins         █▒░░░░░░░░░░░░░░░
   <img height="20" alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
   <img height="20" alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
+
+
+
+
+---
+
+[neocities](https://jaken.neocities.org)
