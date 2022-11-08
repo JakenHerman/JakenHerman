@@ -6,7 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   35 mins         ██████████████░░░░░░░░░░░   55.96 %
+JavaScript   28 mins         ███████████░░░░░░░░░░░░░░   43.81 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
