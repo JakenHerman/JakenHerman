@@ -6,8 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Makefile     5 hrs 14 mins   ███████████░░░░░░░░░░░░░░   43.79 %
-Other        1 hr 33 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+Makefile     4 hrs 38 mins   █████████▒░░░░░░░░░░░░░░░   37.31 %
+HTML         1 hr 38 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+Other        1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
 ```
 
 <!--END_SECTION:waka-->
