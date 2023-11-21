@@ -6,11 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       4 hrs 29 mins   ██████████░░░░░░░░░░░░░░░   40.48 %
-HTML       1 hr 54 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
-JSON       1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-CSS        1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-TOML       47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
