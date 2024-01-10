@@ -25,5 +25,7 @@ I live on and work a 13-acre livestock farm called Rowan Ranch. We raise pigs, s
 
 📝 : [Feeling Puzzled](https://www.puzzmo.com/+/houstonchronicle/user/xh/jaken) • I am an avid fan of word and number puzzles. I do the Houston Chronicle puzzle page daily as well as Puzzmo (the link). I used to do the NYT games, but I got burned out on those as well as the Wall Street Journal crosswords - maybe I'll come back to them one day. 
 
+📚 : [Bookwormin'](https://www.goodreads.com/author/show/19722087.Jaken_Chandler_Herman) • I like to read about Texas & U.S. history, Christianity, and farming. I've also authored a book on game development using Amazon Lumberyard.
+
 
 ![BD52F598-748A-4C55-A902-4636A1F3B5AB_1_201_a](https://github.com/JakenHerman/JakenHerman/assets/4694843/a3174ccf-acb0-41d5-98b0-04a049d0d0ea)
