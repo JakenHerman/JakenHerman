@@ -2,7 +2,8 @@
 # Howdy folks
 
 My name is **Jaken**. I'm a software engineer building software to solve cold cases using DNA at Othram in the Rust programming language.
- 
+
+ - ☑️ [Building a REST API with Rocket: Handling POST, PUT, and DELETE Requests](https://medium.com/@JakenH/building-a-rest-api-with-rocket-handling-post-put-and-delete-requests-3329fdd7c4cb)
  - 🚀 [Getting Started with Rocket and Rust for REST APIs (Building a To-Do App)](https://medium.com/@JakenH/getting-started-with-rocket-and-rust-for-rest-apis-building-a-to-do-app-95ec3e38c670)
  - 👏 [How to Build a Command-Line Interface (CLI) in Rust](https://medium.com/@JakenH/how-to-build-a-command-line-interface-cli-in-rust-3b2d3136874f)
  - 🚇 [Extending a CLI Program with Subcommands in Rust](https://medium.com/geekculture/extending-a-cli-program-with-subcommands-in-rust-64d90537fc49)
