@@ -2,6 +2,8 @@
 # Howdy folks
 
 My name is **Jaken**. I'm a software engineer building software to solve cold cases using DNA at Othram in the Rust programming language.
+
+ - 🐋 [Building a Scalable Microservice Architecture with Rust and Docker](https://medium.com/@JakenH/building-a-scalable-microservice-architecture-with-rust-and-docker-32c892726c23)
  - 🗃️ [Handling JSON Data in Rust: Using Serde for Serialization](https://medium.com/@JakenH/handling-json-data-in-rust-using-serde-for-serialization-03763c8b7532)
  - ⛽️ [Crafting a To-Do App in Rust: How to Use SQLite and Diesel for Data Persistence](https://medium.com/@JakenH/crafting-a-to-do-app-in-rust-how-to-use-sqlite-and-diesel-for-data-persistence-6499fa128479)
  - ☑️ [Building a REST API with Rocket: Handling POST, PUT, and DELETE Requests](https://medium.com/@JakenH/building-a-rest-api-with-rocket-handling-post-put-and-delete-requests-3329fdd7c4cb)
